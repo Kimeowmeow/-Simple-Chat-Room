@@ -55,7 +55,7 @@ This project implements a simple chat room system using **TCP socket programming
 |---------------|----------------------------------|
 | `server.py`   | Server-side code                 |
 | `client.py`   | Client-side code                 |
-| `README_EN.md`| This documentation (English)     |
+| `README.md`| This documentation     |
 
 ## 📌 Notes
 
